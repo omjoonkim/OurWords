@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">OurWords</string>
+	<string name="facebook_app_id">113994989218852</string>
+	<string name="fb_login_protocol_scheme">fb113994989218852</string>
+</resources>
